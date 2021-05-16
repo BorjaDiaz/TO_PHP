@@ -1,0 +1,197 @@
+Mensaje registrado 
+ TEXTO: Paco
+ idTema: 1
+ idUsuario: 1
+Se ha borrado el mensaje con el id: 12
+Mensaje registrado 
+ TEXTO: Paco
+ idTema: 1
+ idUsuario: 1
+Mensaje registrado 
+ TEXTO: Paco
+ idTema: 1
+ idUsuario: 1
+Se ha borrado el mensaje con el id: 14
+Se ha borrado el mensaje con el id: 14
+Mensaje registrado 
+ TEXTO: Paco
+ idTema: 1
+ idUsuario: 1
+Se ha borrado el mensaje con el id: 15
+Se ha borrado el tema con el id: 95
+Tema registrado 
+ Tema: Tarkov
+Tema registrado 
+ Tema: Warhammer
+Se ha borrado el tema con el id: 97
+Tema registrado 
+ Tema: Warhammer
+Se ha borrado el tema con el id: 1
+Mensaje registrado 
+ TEXTO: Paco
+ idTema: 96
+ idUsuario: 1
+Mensaje registrado 
+ TEXTO: Paco
+ idTema: 98
+ idUsuario: 1
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+ERROR: Cannot add or update a child row: a foreign key constraint fails (`to_php`.`mensajes`, CONSTRAINT `mensajes_ibfk_2` FOREIGN KEY (`idTema`) REFERENCES `temas` (`id`))
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+ERROR: Cannot add or update a child row: a foreign key constraint fails (`to_php`.`mensajes`, CONSTRAINT `mensajes_ibfk_2` FOREIGN KEY (`idTema`) REFERENCES `temas` (`id`))
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+Se ha borrado el tema con el id: 1
+ERROR: Cannot add or update a child row: a foreign key constraint fails (`to_php`.`mensajes`, CONSTRAINT `mensajes_ibfk_2` FOREIGN KEY (`idTema`) REFERENCES `temas` (`id`))
+ERROR: Cannot add or update a child row: a foreign key constraint fails (`to_php`.`mensajes`, CONSTRAINT `mensajes_ibfk_2` FOREIGN KEY (`idTema`) REFERENCES `temas` (`id`))
+ERROR: Cannot add or update a child row: a foreign key constraint fails (`to_php`.`mensajes`, CONSTRAINT `mensajes_ibfk_2` FOREIGN KEY (`idTema`) REFERENCES `temas` (`id`))
+ERROR: Cannot add or update a child row: a foreign key constraint fails (`to_php`.`mensajes`, CONSTRAINT `mensajes_ibfk_2` FOREIGN KEY (`idTema`) REFERENCES `temas` (`id`))
+ERROR: Cannot add or update a child row: a foreign key constraint fails (`to_php`.`mensajes`, CONSTRAINT `mensajes_ibfk_2` FOREIGN KEY (`idTema`) REFERENCES `temas` (`id`))
+ERROR: Cannot add or update a child row: a foreign key constraint fails (`to_php`.`mensajes`, CONSTRAINT `mensajes_ibfk_2` FOREIGN KEY (`idTema`) REFERENCES `temas` (`id`))
+ERROR: Cannot add or update a child row: a foreign key constraint fails (`to_php`.`mensajes`, CONSTRAINT `mensajes_ibfk_2` FOREIGN KEY (`idTema`) REFERENCES `temas` (`id`))
+ERROR: Cannot add or update a child row: a foreign key constraint fails (`to_php`.`mensajes`, CONSTRAINT `mensajes_ibfk_2` FOREIGN KEY (`idTema`) REFERENCES `temas` (`id`))
+ERROR: Cannot add or update a child row: a foreign key constraint fails (`to_php`.`mensajes`, CONSTRAINT `mensajes_ibfk_2` FOREIGN KEY (`idTema`) REFERENCES `temas` (`id`))
+ERROR: Cannot add or update a child row: a foreign key constraint fails (`to_php`.`mensajes`, CONSTRAINT `mensajes_ibfk_2` FOREIGN KEY (`idTema`) REFERENCES `temas` (`id`))
+ERROR: Cannot add or update a child row: a foreign key constraint fails (`to_php`.`mensajes`, CONSTRAINT `mensajes_ibfk_2` FOREIGN KEY (`idTema`) REFERENCES `temas` (`id`))
+ERROR: Cannot add or update a child row: a foreign key constraint fails (`to_php`.`mensajes`, CONSTRAINT `mensajes_ibfk_2` FOREIGN KEY (`idTema`) REFERENCES `temas` (`id`))
+Se ha borrado el tema con el id: 96
+Se ha borrado el tema con el id: 98
+Se ha borrado el tema con el id: 96
+Se ha borrado el tema con el id: 98
+Se ha borrado el tema con el id: 96
+Se ha borrado el tema con el id: 98
+Se ha borrado el tema con el id: 96
+Se ha borrado el tema con el id: 98
+Se ha borrado el tema con el id: 96
+Se ha borrado el tema con el id: 98
+Se ha borrado el tema con el id: 96
+Se ha borrado el tema con el id: 98
+Tema registrado 
+ Tema: Hunt
+Mensaje registrado 
+ TEXTO: 
+ idTema: 96
+ idUsuario: 1
+Se ha borrado el mensaje con el id: 1
+Se ha borrado el mensaje con el id: 32
+Mensaje registrado 
+ TEXTO: 
+ idTema: 96
+ idUsuario: 1
+Se ha borrado el mensaje con el id: 33
+Mensaje registrado 
+ TEXTO: 
+ idTema: 96
+ idUsuario: 1
+Se ha borrado el mensaje con el id: 34
+Mensaje registrado 
+ TEXTO: 
+ idTema: 96
+ idUsuario: 1
+Se ha borrado el mensaje con el id: 35
+Mensaje registrado 
+ TEXTO: Prueba d mensaje
+ idTema: 96
+ idUsuario: 1
+Mensaje registrado 
+ TEXTO: Mensaje de prueba con Juanito
+ idTema: 96
+ idUsuario: 2
+Mensaje registrado 
+ TEXTO: Prueba con otro mensaje
+ idTema: 96
+ idUsuario: 1
+Se ha borrado el mensaje con el id: 16
+Se ha borrado el mensaje con el id: 38
+Tema registrado 
+ Tema: Diablo
+Tema registrado 
+ Tema: Diablo 2
+Se ha borrado el tema con el id: 101
+Se ha borrado el tema con el id: 100
+Mensaje registrado 
+ TEXTO: Paco
+ idTema: 99
+ idUsuario: 1
+Se ha borrado el mensaje con el id: 39
+Mensaje registrado 
+ TEXTO: Paco
+ idTema: 99
+ idUsuario: 1
+Se ha borrado el tema con el id: 99
+Mensaje registrado 
+ TEXTO: Paco
+ idTema: 99
+ idUsuario: 1
+Se ha borrado el tema con el id: 99
+Se ha borrado el tema con el id: 96
+Se ha borrado el tema con el id: 98
+Tema registrado 
+ Tema: Tarkov
+Mensaje registrado 
+ TEXTO: Paco
+ idTema: 102
+ idUsuario: 1
+Tema registrado 
+ Tema: HUnt
+Se ha borrado el tema con el id: 103
+Usuario registrado 
+ USUARIO: 1
+ PASSWORD: 81dc9bdb52d04dc20036dbd8313ed055
+ EMAIL: 
+Contraseña cambiada 
+ USUARIO: 1
+ PASSWORD: 81dc9bdb52d04dc20036dbd8313ed055
+Contraseña cambiada 
+ USUARIO: 1
+ PASSWORD: 202cb962ac59075b964b07152d234b70
+Usuario registrado 
+ USUARIO: 1
+ PASSWORD: d41d8cd98f00b204e9800998ecf8427e
+ EMAIL: 
+ERROR: Duplicate entry '1' for key 'nombre'
+Usuario registrado 
+ USUARIO: 2
+ PASSWORD: 202cb962ac59075b964b07152d234b70
+ EMAIL: borja_diaz_rodriguez@outlook.com
+ERROR: Duplicate entry '2' for key 'nombre'
+Contraseña cambiada 
+ USUARIO: 1
+ PASSWORD: 81dc9bdb52d04dc20036dbd8313ed055
+Contraseña cambiada 
+ USUARIO: 1
+ PASSWORD: 81dc9bdb52d04dc20036dbd8313ed055
+ERROR: Duplicate entry 'Borja' for key 'nombre'
+ERROR: Duplicate entry 'Borja' for key 'nombre'
+ERROR: Duplicate entry 'Borja' for key 'nombre'
+Se ha borrado el tema con el id: 102
+Contraseña cambiada 
+ USUARIO: 1
+ PASSWORD: 202cb962ac59075b964b07152d234b70
+Tema registrado 
+ Tema: Tarkov
+Se ha borrado el tema con el id: 104
+Tema registrado 
+ Tema: Nuevo Tema
+Mensaje registrado 
+ TEXTO: Nuevo mensaje
+ idTema: 105
+ idUsuario: 1
+Tema registrado 
+ Tema: 
+Se ha borrado el tema con el id: 106

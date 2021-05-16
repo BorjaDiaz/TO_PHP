@@ -1,0 +1,8 @@
+RewriteEngine on
+ErrorDocument 403 /TO_PHP/error/error.php
+ErrorDocument 404 /TO_PHP/error/error.php
+ErrorDocument 405 /TO_PHP/error/error.php
+ErrorDocument 408 /TO_PHP/error/error.php
+ErrorDocument 500 /TO_PHP/error/error.php
+ErrorDocument 502 /TO_PHP/error/error.php
+ErrorDocument 504 /TO_PHP/error/error.php
